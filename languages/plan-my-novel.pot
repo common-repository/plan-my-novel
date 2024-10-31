@@ -1,0 +1,2295 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Plan My Novel\n"
+"POT-Creation-Date: 2016-10-21 18:41-0400\n"
+"PO-Revision-Date: 2016-10-21 18:24-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: plan-my-novel.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/pmn-character-settings.php:75
+msgid "Characters in:"
+msgstr ""
+
+#: inc/pmn-character-settings.php:93
+#, php-format
+msgid ""
+"Note: Some features are controlled by the <a href=\"%s\">plugin's settings</"
+"a>"
+msgstr ""
+
+#: inc/pmn-character-settings.php:96
+msgid "Add Another Character"
+msgstr ""
+
+#: inc/pmn-character-settings.php:97
+msgid "Delete Character"
+msgstr ""
+
+#: inc/pmn-character-settings.php:106
+msgid "Character's Name"
+msgstr ""
+
+#: inc/pmn-character-settings.php:112
+msgid "Description"
+msgstr ""
+
+#: inc/pmn-character-settings.php:113
+msgid ""
+"Describe the character, their physical appearance and their role in the "
+"story.  "
+msgstr ""
+
+#: inc/pmn-character-settings.php:121
+msgid "Photo (Optional)"
+msgstr ""
+
+#: inc/pmn-character-settings.php:122
+msgid ""
+"Attach a photo of someone who looks close to the way you envision this "
+"character's appearance. Please respect image copyrights and permissions."
+msgstr ""
+
+#: inc/pmn-character-settings.php:140
+msgid "Backstory"
+msgstr ""
+
+#: inc/pmn-character-settings.php:141
+msgid "Describe this character's history and motivations.  "
+msgstr ""
+
+#: inc/pmn-character-settings.php:150
+msgid "Main Character?"
+msgstr ""
+
+#: inc/pmn-character-settings.php:151
+msgid "Check if this is the main character. "
+msgstr ""
+
+#: inc/pmn-functions.php:210
+msgid "File: "
+msgstr ""
+
+#: inc/pmn-functions.php:216
+msgid "There are no files attached to this novel"
+msgstr ""
+
+#: inc/pmn-functions.php:220
+msgid "Currently Attached Files"
+msgstr ""
+
+#: inc/pmn-functions.php:290 inc/pmn-functions.php:377
+msgid "View Full Size"
+msgstr ""
+
+#: inc/pmn-functions.php:290 inc/pmn-functions.php:377
+msgid "Delete"
+msgstr ""
+
+#: inc/pmn-functions.php:406 inc/pmn-novel-settings.php:518
+#: inc/pmn-novel-settings.php:629
+msgid "Author"
+msgstr ""
+
+#: inc/pmn-functions.php:407
+msgid "Version"
+msgstr ""
+
+#: inc/pmn-functions.php:408
+msgid "Docs"
+msgstr ""
+
+#: inc/pmn-functions.php:409
+msgid "Rate"
+msgstr ""
+
+#: inc/pmn-functions.php:409
+msgid "Rate the plugin"
+msgstr ""
+
+#: inc/pmn-functions.php:410
+msgid "Donate"
+msgstr ""
+
+#: inc/pmn-functions.php:410
+msgid "Make a donation"
+msgstr ""
+
+#: inc/pmn-functions.php:433
+msgid "This report was produced by the Plan My Novel WordPress plugin."
+msgstr ""
+
+#: inc/pmn-init.php:57
+msgid "full"
+msgstr ""
+
+#: inc/pmn-init.php:58
+msgid "budget"
+msgstr ""
+
+#: inc/pmn-init.php:60 inc/pmn-outline-settings.php:132
+msgid "Act I"
+msgstr ""
+
+#: inc/pmn-init.php:61 inc/pmn-outline-settings.php:133
+msgid "Act II"
+msgstr ""
+
+#: inc/pmn-init.php:62 inc/pmn-outline-settings.php:134
+msgid "Act III"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:71
+msgid "General"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:81
+msgid "Core information about your novel"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:90
+msgid "Publishing Model:"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:92
+msgid "This novel will be:"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:94
+msgid "This novel will be self published"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:94
+msgid "Self Published"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:95
+msgid "This novel will be published by a third-party publisher"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:95
+msgid "Published by a third-party publisher"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:96
+msgid ""
+"This novel will be self published electronically and by a third-party "
+"publisher in print"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:96
+msgid "Self published electronically and by a third-party publisher in print"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:97
+msgid "This novel's publishing model is currently unknown or undecided"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:97
+msgid "Unknown or Undecided"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:104
+msgid "Formats:"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:106
+msgid "Check all that apply."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:107
+msgid "This novel will be produced in the following formats:"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:110
+msgid "Electronic"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:111
+msgid "Hardcover"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:112
+msgid "Trade Paperback"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:113
+msgid "Custom Paperback"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:114
+msgid "Audio Book"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:125
+msgid "File Types:"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:128
+msgid ""
+"Check all electronic file types this novel will be produced in. This list is "
+"not comprehensive."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:131
+msgid "Kindle Format"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:132
+msgid "Mobi"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:133
+msgid "PDF"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:134
+msgid "ePub"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:145
+msgid "Authorship:"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:147
+msgid "This novel will have:"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:149
+msgid "A single author"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:150
+msgid "Multiple authors"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:161
+msgid "Written By"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:162
+msgid "Enter the author's name or pen name"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:169
+msgid "Co-author"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:170
+msgid "Enter the co-author's name or pen name"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:180
+msgid "Primary Genre"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:181
+msgid "Such as Mystery, Romance, Science Fiction, etc."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:188
+msgid "Primary Subgenre (Optional)"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:189
+msgid "Such as Police Procedural, Paranormal, etc."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:198
+msgid "Series (Optional)"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:199
+msgid "Enter the series this novel is a part of"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:205
+msgid "ISBN Number (Optional)"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:213
+msgid "ASIN Number (Optional)"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:214
+msgid "An Amazon.com specific identifier assigned after publication"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:220 inc/pmn-reports.php:141
+msgid "Other Information"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:221
+msgid "Enter any other core information that is not captured above"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:238
+msgid "Marketing"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:253
+msgid ""
+"These settings deal with the marketing and distribution of your completed "
+"novel. Click each topic."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:265
+msgid "Enter key dates in your publication timeline."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:267
+#, php-format
+msgid " %s RELEASE SCHEDULE %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:273
+msgid "Target Editorial Date"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:274
+msgid "Date when manuscript will be available to editors."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:281
+msgid "Target Preview Date"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:282
+msgid "Date when edited novel will available to beta readers."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:290
+msgid "Target Release Date"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:291
+msgid "Date when novel will be available to the public."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:307
+#, php-format
+msgid ""
+"Enter every price applicable to your novel. If you plan to distribute "
+"through Amazon, you should be familiar with Amazon’s %sPricing Page%s and "
+"%sList Price Requirements%s. If your book will be free, enter 0.00."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:309
+#, php-format
+msgid " %s PRICING %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:315 inc/pmn-novel-settings.php:526
+#: inc/pmn-novel-settings.php:637
+msgid "Electronic Price"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:316
+msgid "The price as an ebook, incuding the Kindle Store"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:323
+msgid "Hardcover Price"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:330
+msgid "Trade Paperback Price"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:337
+msgid "Custom Paperback Price"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:352
+msgid ""
+"Enter the categories in which you will list your book. Note that Amazon "
+"allows a maximum of two choices."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:354
+#, php-format
+msgid " %s LISTING CATEGORIES %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:360 inc/pmn-novel-settings.php:578
+#: inc/pmn-novel-settings.php:688
+msgid "Listing Category 1"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:367 inc/pmn-novel-settings.php:585
+#: inc/pmn-novel-settings.php:695
+msgid "Listing Category 2"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:374
+msgid "Listing Category 3"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:381
+msgid "Listing Category 4"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:395
+msgid ""
+"Select the primary channels you plan to use to distribute your book. Check "
+"all that apply. The list below is not comprehensive."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:397
+#, php-format
+msgid " %s DISTRIBUTION CHANNELS %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:408
+msgid "Publisher chosen channels"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:408
+msgid "My publisher will decide"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:409
+msgid "Direct sales from author's website"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:409
+msgid "Direct sales from my website"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:410
+msgid "Direct sales from in-person events"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:411
+msgid "Indirect sales via Print-on-Demand provider(s)"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:411
+msgid "Indirect sales via Print-on-Demand provider"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:412
+msgid "Amazon - Physical Book Sales"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:412
+msgid "Amazon - Physical Books"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:413
+msgid "Amazon - Kindle Direct Publishing (ebooks)"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:414
+msgid "Apple iBooks Store"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:415
+msgid "Barnes & Noble - Nook Press (ebooks)"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:416
+msgid "Kobo Store (ebooks)"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:417
+msgid "Wholesale to a distributor"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:418
+msgid "Wholesale to independent book stores"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:419
+msgid "Consignment to book stores or other retailers"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:430
+msgid "Other Channel 1"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:440
+msgid "Other Channel 2"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:450
+msgid "Other Channel 3"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:460
+msgid "Other Channel 4"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:479
+msgid ""
+"Hone the appeal of your book by first identifying your target audience and "
+"then analyzing something that has proven to be a success with that audience. "
+msgstr ""
+
+#: inc/pmn-novel-settings.php:481
+#, php-format
+msgid " %s VIABILITY %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:487
+msgid "Target Market"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:488
+msgid "Describe the target audience for your novel."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:495
+msgid "Successful Model 1"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:496
+msgid ""
+"Identify a novel that has recently been successful with your target audience "
+"and enter the following details about it. The purpose of this exercise is to "
+"ensure your familiarity with the things that have proven successful with "
+"your target market, even if your novel will have different characteristics."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:503 inc/pmn-novel-settings.php:613
+msgid "Check to include in reports"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:510 inc/pmn-novel-settings.php:620
+msgid "Title"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:533 inc/pmn-novel-settings.php:644
+msgid "Paperback Price"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:541 inc/pmn-novel-settings.php:652
+#: inc/pmn-novel-settings.php:1653
+msgid "Cover Art"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:556 inc/pmn-novel-settings.php:666
+msgid "Page Length"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:563 inc/pmn-novel-settings.php:673
+#: inc/pmn-novel-settings.php:1684
+msgid "Point of View"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:567 inc/pmn-novel-settings.php:677
+msgid "--Please choose--"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:568 inc/pmn-novel-settings.php:678
+#: inc/pmn-novel-settings.php:1689
+msgid "First Person"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:569 inc/pmn-novel-settings.php:679
+#: inc/pmn-novel-settings.php:1692
+msgid "Second Person"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:570 inc/pmn-novel-settings.php:680
+#: inc/pmn-novel-settings.php:1690
+msgid "Third Person"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:571 inc/pmn-novel-settings.php:681
+#: inc/pmn-novel-settings.php:1691
+msgid "Multiple POVs"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:593 inc/pmn-novel-settings.php:703
+msgid "Other Notes"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:604
+msgid "Successful Model 2"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:718
+msgid ""
+"A strong launch is critical to the success of your novel. Choose the methods "
+"you plan to use to give your book the most exposure and momentum upon "
+"release. Check all that apply. "
+msgstr ""
+
+#: inc/pmn-novel-settings.php:720
+#, php-format
+msgid " %s LAUNCH PLAN %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:737
+msgid "Methods with no cost"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:738
+msgid "Email Blast to Author's Own Mailing List"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:738
+msgid "Email Blast to Your Own Mailing List"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:739
+msgid "Updates to Author's website"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:739
+msgid "Update your own website"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:740
+msgid ""
+"Updates to all of Author's social media accounts (Twitter, Facebook, etc.)"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:740
+msgid "Updates to all of your social media accounts (Twitter, Facebook, etc.)"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:741
+msgid "Post or announcement in Writer's Group or Forum"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:741
+msgid "Post or announcement in your Writer's Group or Forum"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:742
+msgid "Joining the GoodReads Author Program"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:742
+msgid "Join the GoodReads Author Program"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:743
+msgid "Posting the novel's cover art on Pintrest"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:743
+msgid "Post your novel's cover art on Pintrest"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:744
+msgid "Hosting an online Chat/Q&A session about the novel"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:744
+msgid "Host an online Chat/Q&A session about your novel"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:745
+msgid "Making guest appearances on relevant podcast(s)"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:745
+msgid "Make guest appearances on relevant podcast(s)"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:745
+msgid "Methods that may have costs"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:749
+msgid "Email Blast to a third-party or purchased mailing list"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:750
+msgid "Blog Book Tour"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:751
+msgid "Traditional Book Tour (involving physical travel)"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:752
+msgid "Sponsored Tweet(s)"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:753
+msgid "Sponsored Blog Post(s)"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:754
+msgid "Giveaway(s) of promotional items"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:754
+msgid "Giveaways (such as giving the first 10 readers a new...)"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:755
+msgid "Providing Free Review Copies"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:756
+msgid "BookBub Campaign"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:757
+msgid "Purchasing Online Advertisements"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:757
+msgid "Purchase Online Advertisements"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:758
+msgid "Purchasing Print or other offline advertisements"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:758
+msgid "Purchase Print or other offline advertisements"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:759
+msgid "Creating a video trailer for your novel"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:759
+msgid "Make a video trailer for your novel"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:772
+msgid "Other Method 1"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:784
+msgid "Other Method 2"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:795
+msgid "Other Method 3"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:806
+msgid "Launch Notes"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:807
+msgid "Enter any notes or other information pertaining to your launch"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:824 inc/pmn-novel-settings.php:841
+msgid "Budget"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:835
+msgid "Enter vendor or notes (optional)"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:842
+msgid "Not every item below will apply to your novel or publishing model."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:855
+#, php-format
+msgid " %s Cover Art %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:858 inc/pmn-novel-settings.php:1610
+#: inc/pmn-reports.php:390
+msgid "GRAND TOTAL"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:859
+msgid "DESIGN WORK"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:879
+#, php-format
+msgid " %s Interior Design/Typesetting %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:901
+#, php-format
+msgid " %s Other Artwork %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:928
+#, php-format
+msgid " %s Copyediting %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:931
+#, php-format
+msgid " %s EDITORIAL WORK %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:951
+#, php-format
+msgid " %s Line Editing %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:973
+#, php-format
+msgid " %s Content/Structural Editing %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:995
+#, php-format
+msgid " %s Proof Reader(s) %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1018
+#, php-format
+msgid " %s Beta Reader(s) %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1044
+#, php-format
+msgid " %s Cost of Printed Proof(s) %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1047
+#, php-format
+msgid " %s PRINTING %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1067
+#, php-format
+msgid " %s Print Run %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1089
+#, php-format
+msgid " %s Shipping (Printer to you) %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1111
+#, php-format
+msgid " %s Shipping (You to distributor) %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1133
+#, php-format
+msgid " %s Shipping/Storage Supplies %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1156
+#, php-format
+msgid " %s Physical Storage %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1178
+#, php-format
+msgid " %s P.O.D. One time Fee No.1 %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1200
+#, php-format
+msgid " %s P.O.D. One time Fee No.2 %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1226
+#, php-format
+msgid " %s Domain Registration - Author's Website %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1229
+#, php-format
+msgid " %s AUTHOR PLATFORM %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1250
+#, php-format
+msgid " %s Web Design or Wordpress Theme %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1272
+#, php-format
+msgid " %s Website Hosting%s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1294
+#, php-format
+msgid " %s Mailing List Service (Mailchimp, etc.) %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1316
+#, php-format
+msgid " %s Video Editing/Conversion %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1346
+#, php-format
+msgid " %s Launch Budget %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1349
+#, php-format
+msgid " %s MARKETING %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1369
+#, php-format
+msgid " %s Advertisements %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1391
+#, php-format
+msgid " %s Post-Launch Promotions %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1413
+#, php-format
+msgid " %s Book Publicist %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1435
+#, php-format
+msgid " %s Postage for Review Copies %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1462
+#, php-format
+msgid " %s Cost of ISBN(s) %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1465
+#, php-format
+msgid " %s OTHER EXPENSES %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1485
+#, php-format
+msgid " %s eBook Conversion Service %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1507
+#, php-format
+msgid " %s Professional Reviews (Kirkus, etc.) %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1529
+#, php-format
+msgid " %s Professional Photos/Headshots %s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1551
+#, php-format
+msgid " %s Other Expense 1%s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1573
+#, php-format
+msgid " %s Other Expense 2%s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1595
+#, php-format
+msgid " %s Other Expense 3%s %s"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1627
+msgid "Content"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1638
+msgid "These settings pertain to the acutal content of your novel."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1645
+msgid "Outlines & Characters"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1646
+#, php-format
+msgid ""
+" For outlines, use the built-in %soutline tool%s.  For characters, use the "
+"built-in %scharacter tool%s."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1668
+msgid "Target Length"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1669
+msgid "Enter a word count, such as 70,000"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1676
+msgid "Plot Structure (Optional)"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1677
+msgid "Enter your story structure, such as Three Act, Snowflake, etc. "
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1686
+msgid "This novel will be told in:"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1692
+msgid "Second Person (very rare)"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1698
+msgid "Synopsis"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1699
+msgid ""
+"A brief summation of your story in one or two paragraphs. An effective "
+"synopsis typically tells who the story is about, where it happens and the "
+"hook or conflict that would make it interesting to your target audience. "
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1707
+msgid "Elevator Pitch"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1708
+msgid ""
+"A one or two sentence description of your novel that could be fully told "
+"during the time it takes to complete a typical elevator ride. Also known as "
+"a logline."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1716
+msgid "Setting (Optional)"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1717
+msgid "Describe your novel's setting in greater detail"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1739
+msgid "Manage"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1751
+msgid "Full Report"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1752 inc/pmn-novel-settings.php:1766
+#: inc/pmn-novel-settings.php:1780 inc/pmn-novel-settings.php:1794
+msgid "Print"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1752 lib/cmb2/includes/CMB2_JS.php:156
+#: lib/cmb2/includes/types/CMB2_Type_File_Base.php:78
+msgid "Download"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1756
+msgid ""
+"All data, including outlines and characters. The download button produces an "
+"unformatted text file you can edit in your favorite word processor."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1765
+msgid "Summary Report"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1770
+msgid "Print a summary overview of your novel. "
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1779
+msgid "Outline Report"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1784
+msgid "Print a standalone outline report."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1793
+msgid "Character Report"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1798
+msgid "Print a standalone character report."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1807
+msgid "Budget Export"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1808 inc/pmn-novel-settings.php:1809
+msgid "Export"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1813
+msgid ""
+"Download your novel's budget as a CSV file that you can edit in your "
+"favorite spreadsheet application."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1825
+#, php-format
+msgid ""
+"Take action with your novel's data. You can change what is included in the "
+"plugin's <a href=\"%s\">settings</a>"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1835
+msgid "Mark novel as complete"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1859
+msgid "Files"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1868
+msgid "Attach documents related to this novel"
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1869
+#, php-format
+msgid ""
+" Common examples include manuscript drafts, contracts and research "
+"materials. %sImportant note%s."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1871
+msgid ""
+"Like all Wordpress attachments, these files will be stored in the uploads "
+"folder on your server and NOT in the database. Be sure to backup your "
+"website folders regularly or use a backup plugin that includes both the "
+"database and files."
+msgstr ""
+
+#: inc/pmn-novel-settings.php:1880
+msgid "Remember to click Update after adding new files."
+msgstr ""
+
+#: inc/pmn-outline-settings.php:38
+msgid "This outline is for:"
+msgstr ""
+
+#: inc/pmn-outline-settings.php:56
+msgid "Tip: You can drag and drop scenes to reorder them."
+msgstr ""
+
+#: inc/pmn-outline-settings.php:58
+msgid "Chapter {#}"
+msgstr ""
+
+#: inc/pmn-outline-settings.php:59
+msgid "Add Another Scene"
+msgstr ""
+
+#: inc/pmn-outline-settings.php:60
+msgid "Delete Scene"
+msgstr ""
+
+#: inc/pmn-outline-settings.php:70
+msgid "Scene Title"
+msgstr ""
+
+#: inc/pmn-outline-settings.php:71
+msgid ""
+"Enter a working title, such as \"Bill confronts Joe\" or \"Chapter 3\". "
+msgstr ""
+
+#: inc/pmn-outline-settings.php:78
+msgid "Scene Summary"
+msgstr ""
+
+#: inc/pmn-outline-settings.php:79
+msgid ""
+"Briefly describe what happens. Remember this is for an outline and not the "
+"novel itself.  "
+msgstr ""
+
+#: inc/pmn-outline-settings.php:87
+msgid "Conflict"
+msgstr ""
+
+#: inc/pmn-outline-settings.php:88
+msgid ""
+"What conflict occurs? Many writing experts recommend that every scene "
+"contain conflict.  "
+msgstr ""
+
+#: inc/pmn-outline-settings.php:97
+msgid "Why is the scene necessary?"
+msgstr ""
+
+#: inc/pmn-outline-settings.php:98
+msgid ""
+"Briefly justify this scene. Many writing experts recommend asking this of "
+"every scene as a form of self-editing. "
+msgstr ""
+
+#: inc/pmn-outline-settings.php:106
+msgid "Add Documents"
+msgstr ""
+
+#: inc/pmn-outline-settings.php:107
+msgid ""
+"Attach almost any kind of file. This is a great place to store research "
+"materials relevant to the scene."
+msgstr ""
+
+#: inc/pmn-outline-settings.php:114
+msgid "Author Notes"
+msgstr ""
+
+#: inc/pmn-outline-settings.php:115
+msgid "Notes or anything else relevant to the scene. "
+msgstr ""
+
+#: inc/pmn-outline-settings.php:126
+msgid "Scene is part of:"
+msgstr ""
+
+#: inc/pmn-outline-settings.php:131
+msgid "--Please select--"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:45
+msgid "Plan My Novel Settings"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:86 inc/pmn-plugin-settings.php:125
+#: plan-my-novel.php:66
+msgid "Settings"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:130
+#, php-format
+msgid ""
+"Click any section below to access its settings. These settings apply to "
+"%sall novels%s."
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:155
+msgid "Plugin Info"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:230
+msgid "General Plugin Settings"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:235
+msgid "Date Format"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:236
+msgid "Enter your preferred date format. Note: Only affects reports."
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:250
+msgid "Currency Symbol"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:251
+msgid "Enter your preferred currency symbol"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:269
+msgid "Report Settings"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:274
+msgid "Hide Plugin Credit?"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:275
+msgid "Check to hide the plugin credit at the end of reports."
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:281
+msgid "Include cover page?"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:282
+msgid "Check to include a cover page in the full report."
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:288
+msgid "Hide General Section?"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:289
+msgid "Check to remove the General section from the full report."
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:295
+msgid "Hide Marketing Section?"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:296
+msgid "Check to remove the Marketing section from the full report."
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:302
+msgid "Hide Budget Section?"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:303
+msgid "Check to remove the Budget section from the full report."
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:309
+msgid "Hide Content Section?"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:310
+msgid "Check to remove the Content section from the full report."
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:316
+msgid "Hide Outline Section?"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:317
+msgid "Check to remove the Outline section from the full report."
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:323
+msgid "Hide Character Section?"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:324
+msgid "Check to remove the Character section from the full report."
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:340
+msgid "Outline Settings"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:345
+msgid "Include author notes?"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:346
+msgid "Check to include author notes in reports."
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:352
+msgid "Include Scene Conflict?"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:353
+msgid "Check to include a scene conflict option in every scene."
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:360
+msgid "Display Conflict?"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:361
+msgid "Check to display the scene conflict in reports."
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:368
+msgid "Include Scene Justification?"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:369
+msgid "Check to include an option to justify every scene."
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:376
+msgid "Display Justification?"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:377
+msgid "Check to display the scene justification in reports."
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:384
+msgid "Act Indicator"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:385
+#, php-format
+msgid ""
+"Check to include an Act selector in every scene. %s The three choices are: "
+"Act I, Act II, Act III."
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:401
+msgid "Character Settings"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:406
+msgid "Include Character Photos?"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:407
+msgid "Check to include character photos in printed reports."
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:413
+msgid "Include Backstory?"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:414
+msgid "Check to include a Backstory option for every character."
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:422
+msgid "Display Backstory?"
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:423
+msgid "Check to display character backstories in reports."
+msgstr ""
+
+#: inc/pmn-plugin-settings.php:446
+msgid "Settings updated."
+msgstr ""
+
+#: inc/pmn-post-types.php:20
+msgctxt "Post Type General Name"
+msgid "Novels"
+msgstr ""
+
+#: inc/pmn-post-types.php:21
+msgctxt "Post Type Singular Name"
+msgid "Novel"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: inc/pmn-post-types.php:22
+msgid "Plan My Novel"
+msgstr ""
+
+#: inc/pmn-post-types.php:23
+msgid "Novels"
+msgstr ""
+
+#: inc/pmn-post-types.php:24 inc/pmn-post-types.php:87
+#: inc/pmn-post-types.php:149
+msgid "Item Archives"
+msgstr ""
+
+#: inc/pmn-post-types.php:25 inc/pmn-post-types.php:88
+#: inc/pmn-post-types.php:150
+msgid "Parent Item:"
+msgstr ""
+
+#: inc/pmn-post-types.php:26
+msgid "All Novels"
+msgstr ""
+
+#: inc/pmn-post-types.php:27 inc/pmn-post-types.php:28
+msgid "Add New Novel"
+msgstr ""
+
+#: inc/pmn-post-types.php:29 inc/pmn-post-types.php:92
+#: inc/pmn-post-types.php:154
+msgid "New Item"
+msgstr ""
+
+#: inc/pmn-post-types.php:30 inc/pmn-post-types.php:93
+#: inc/pmn-post-types.php:155
+msgid "Edit Item"
+msgstr ""
+
+#: inc/pmn-post-types.php:31 inc/pmn-post-types.php:94
+#: inc/pmn-post-types.php:156
+msgid "Update Item"
+msgstr ""
+
+#: inc/pmn-post-types.php:32 inc/pmn-post-types.php:95
+#: inc/pmn-post-types.php:157
+msgid "View Item"
+msgstr ""
+
+#: inc/pmn-post-types.php:33 inc/pmn-post-types.php:96
+#: inc/pmn-post-types.php:158
+msgid "Search Item"
+msgstr ""
+
+#: inc/pmn-post-types.php:34 inc/pmn-post-types.php:97
+#: inc/pmn-post-types.php:159
+msgid "Not found"
+msgstr ""
+
+#: inc/pmn-post-types.php:35 inc/pmn-post-types.php:98
+#: inc/pmn-post-types.php:160
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/pmn-post-types.php:36 inc/pmn-post-types.php:99
+#: inc/pmn-post-types.php:161
+msgid "Featured Image"
+msgstr ""
+
+#: inc/pmn-post-types.php:37 inc/pmn-post-types.php:100
+#: inc/pmn-post-types.php:162
+msgid "Set featured image"
+msgstr ""
+
+#: inc/pmn-post-types.php:38 inc/pmn-post-types.php:101
+#: inc/pmn-post-types.php:163
+msgid "Remove featured image"
+msgstr ""
+
+#: inc/pmn-post-types.php:39 inc/pmn-post-types.php:102
+#: inc/pmn-post-types.php:164
+msgid "Use as featured image"
+msgstr ""
+
+#: inc/pmn-post-types.php:40 inc/pmn-post-types.php:103
+#: inc/pmn-post-types.php:165
+msgid "Insert into item"
+msgstr ""
+
+#: inc/pmn-post-types.php:41 inc/pmn-post-types.php:104
+#: inc/pmn-post-types.php:166
+msgid "Uploaded to this item"
+msgstr ""
+
+#: inc/pmn-post-types.php:42 inc/pmn-post-types.php:105
+#: inc/pmn-post-types.php:167
+msgid "Items list"
+msgstr ""
+
+#: inc/pmn-post-types.php:43 inc/pmn-post-types.php:106
+#: inc/pmn-post-types.php:168
+msgid "Items list navigation"
+msgstr ""
+
+#: inc/pmn-post-types.php:44 inc/pmn-post-types.php:107
+#: inc/pmn-post-types.php:169
+msgid "Filter items list"
+msgstr ""
+
+#: inc/pmn-post-types.php:55
+msgid "Novel"
+msgstr ""
+
+#: inc/pmn-post-types.php:56
+msgid "A novel or other work of fiction"
+msgstr ""
+
+#: inc/pmn-post-types.php:83
+msgctxt "Post Type General Name"
+msgid "Outlines"
+msgstr ""
+
+#: inc/pmn-post-types.php:84
+msgctxt "Post Type Singular Name"
+msgid "Outline"
+msgstr ""
+
+#: inc/pmn-post-types.php:85 inc/pmn-post-types.php:86
+#: inc/pmn-post-types.php:89
+msgid "Outlines"
+msgstr ""
+
+#: inc/pmn-post-types.php:90 inc/pmn-post-types.php:91
+msgid "Add New Outline"
+msgstr ""
+
+#: inc/pmn-post-types.php:118
+msgid "Outline"
+msgstr ""
+
+#: inc/pmn-post-types.php:119
+msgid "An outline for a novel or other work of fiction"
+msgstr ""
+
+#: inc/pmn-post-types.php:145
+msgctxt "Post Type General Name"
+msgid "Characters"
+msgstr ""
+
+#: inc/pmn-post-types.php:146
+msgctxt "Post Type Singular Name"
+msgid "Character"
+msgstr ""
+
+#: inc/pmn-post-types.php:147 inc/pmn-post-types.php:148
+#: inc/pmn-post-types.php:151
+msgid "Characters"
+msgstr ""
+
+#: inc/pmn-post-types.php:152 inc/pmn-post-types.php:153
+msgid "Add New Character Set"
+msgstr ""
+
+#: inc/pmn-post-types.php:180
+msgid "Character"
+msgstr ""
+
+#: inc/pmn-post-types.php:181
+msgid "A character for a novel or other work of fiction"
+msgstr ""
+
+#: inc/pmn-reports.php:51
+msgid "A NOVEL"
+msgstr ""
+
+#: inc/pmn-reports.php:53
+msgid "FULL REPORT"
+msgstr ""
+
+#: inc/pmn-reports.php:77
+msgid "CORE INFORMATION"
+msgstr ""
+
+#: inc/pmn-reports.php:91
+msgid "Basic Details"
+msgstr ""
+
+#: inc/pmn-reports.php:95
+msgid "Written by: "
+msgstr ""
+
+#: inc/pmn-reports.php:98
+msgid "Series: "
+msgstr ""
+
+#: inc/pmn-reports.php:101 inc/pmn-reports.php:772
+msgid "Primary Genre: "
+msgstr ""
+
+#: inc/pmn-reports.php:102 inc/pmn-reports.php:773
+msgid "Subgenre: "
+msgstr ""
+
+#: inc/pmn-reports.php:104
+msgid "Publishing Model: "
+msgstr ""
+
+#: inc/pmn-reports.php:108
+msgid "ISBN: "
+msgstr ""
+
+#: inc/pmn-reports.php:109
+msgid "ASIN: "
+msgstr ""
+
+#: inc/pmn-reports.php:115
+msgid "Formats"
+msgstr ""
+
+#: inc/pmn-reports.php:116
+msgid "This novel will be published in the following formats:"
+msgstr ""
+
+#: inc/pmn-reports.php:128
+msgid "File Types"
+msgstr ""
+
+#: inc/pmn-reports.php:129
+msgid "This novel will be produced in the following file types:"
+msgstr ""
+
+#: inc/pmn-reports.php:142
+msgid "Other Information: "
+msgstr ""
+
+#: inc/pmn-reports.php:167
+msgid "MARKETING"
+msgstr ""
+
+#: inc/pmn-reports.php:182
+msgid "Release Schedule"
+msgstr ""
+
+#: inc/pmn-reports.php:184
+msgid "Target Editorial Date: "
+msgstr ""
+
+#: inc/pmn-reports.php:185
+msgid "Target Preview Date: "
+msgstr ""
+
+#: inc/pmn-reports.php:186
+msgid "Target Release Date: "
+msgstr ""
+
+#: inc/pmn-reports.php:189
+msgid "Pricing"
+msgstr ""
+
+#: inc/pmn-reports.php:191 inc/pmn-reports.php:230 inc/pmn-reports.php:244
+msgid "Electronic Price: "
+msgstr ""
+
+#: inc/pmn-reports.php:192
+msgid "Hardcover Price: "
+msgstr ""
+
+#: inc/pmn-reports.php:193
+msgid "Trade Paperback Price: "
+msgstr ""
+
+#: inc/pmn-reports.php:194
+msgid "Custom Paperback Price: "
+msgstr ""
+
+#: inc/pmn-reports.php:197
+msgid "Categorization"
+msgstr ""
+
+#: inc/pmn-reports.php:199 inc/pmn-reports.php:234 inc/pmn-reports.php:248
+msgid "Listing Category 1: "
+msgstr ""
+
+#: inc/pmn-reports.php:200 inc/pmn-reports.php:235 inc/pmn-reports.php:249
+msgid "Listing Category 2: "
+msgstr ""
+
+#: inc/pmn-reports.php:201
+msgid "Listing Category 3: "
+msgstr ""
+
+#: inc/pmn-reports.php:202
+msgid "Listing Category 4: "
+msgstr ""
+
+#: inc/pmn-reports.php:206
+msgid "Distribution Channels"
+msgstr ""
+
+#: inc/pmn-reports.php:207
+msgid "This novel will be distributed through the following channels:"
+msgstr ""
+
+#: inc/pmn-reports.php:221
+msgid "Viability"
+msgstr ""
+
+#: inc/pmn-reports.php:224
+msgid "Target Audience: "
+msgstr ""
+
+#: inc/pmn-reports.php:228
+msgid "Successful Model No.1: "
+msgstr ""
+
+#: inc/pmn-reports.php:228 inc/pmn-reports.php:242
+msgid "by"
+msgstr ""
+
+#: inc/pmn-reports.php:231 inc/pmn-reports.php:245
+msgid "Paperback Price: "
+msgstr ""
+
+#: inc/pmn-reports.php:232 inc/pmn-reports.php:246
+msgid "Page Length: "
+msgstr ""
+
+#: inc/pmn-reports.php:233 inc/pmn-reports.php:247
+msgid "Point of View: "
+msgstr ""
+
+#: inc/pmn-reports.php:242
+msgid "Successful Model No.2: "
+msgstr ""
+
+#: inc/pmn-reports.php:255
+msgid "Launch Plan"
+msgstr ""
+
+#: inc/pmn-reports.php:256
+msgid "This novel will be launched using the following methods:"
+msgstr ""
+
+#: inc/pmn-reports.php:270
+msgid "Other Launch Information: "
+msgstr ""
+
+#: inc/pmn-reports.php:296
+msgid "BUDGET"
+msgstr ""
+
+#: inc/pmn-reports.php:300
+msgid "ITEM "
+msgstr ""
+
+#: inc/pmn-reports.php:301
+msgid "AMOUNT "
+msgstr ""
+
+#: inc/pmn-reports.php:302
+msgid "VENDOR "
+msgstr ""
+
+#: inc/pmn-reports.php:349
+msgid "Cover Art "
+msgstr ""
+
+#: inc/pmn-reports.php:350
+msgid "Interior Design/Typesetting "
+msgstr ""
+
+#: inc/pmn-reports.php:351
+msgid "Other Artwork "
+msgstr ""
+
+#: inc/pmn-reports.php:353
+msgid "Copyediting "
+msgstr ""
+
+#: inc/pmn-reports.php:354
+msgid "Line Editing "
+msgstr ""
+
+#: inc/pmn-reports.php:355
+msgid "Content/Structural Editing "
+msgstr ""
+
+#: inc/pmn-reports.php:356
+msgid "Proof Readers "
+msgstr ""
+
+#: inc/pmn-reports.php:357
+msgid "Beta Readers "
+msgstr ""
+
+#: inc/pmn-reports.php:359
+msgid "Cost of Printed Proof(s) "
+msgstr ""
+
+#: inc/pmn-reports.php:360
+msgid "Print Run "
+msgstr ""
+
+#: inc/pmn-reports.php:361
+msgid "Shipping (Printer to you) "
+msgstr ""
+
+#: inc/pmn-reports.php:362
+msgid "Shipping (You to distributor) "
+msgstr ""
+
+#: inc/pmn-reports.php:363
+msgid "Physical Storage "
+msgstr ""
+
+#: inc/pmn-reports.php:364
+msgid "P.O.D. One time Fee No.1 "
+msgstr ""
+
+#: inc/pmn-reports.php:365
+msgid "P.O.D. One time Fee No.2"
+msgstr ""
+
+#: inc/pmn-reports.php:367
+msgid "Domain Registration - Author's Website "
+msgstr ""
+
+#: inc/pmn-reports.php:368
+msgid "Web Design or Wordpress Theme "
+msgstr ""
+
+#: inc/pmn-reports.php:369
+msgid "Website Hosting "
+msgstr ""
+
+#: inc/pmn-reports.php:370
+msgid "Mailing List Service "
+msgstr ""
+
+#: inc/pmn-reports.php:371
+msgid "Video Editing/Conversion "
+msgstr ""
+
+#: inc/pmn-reports.php:373
+msgid "Launch Budget "
+msgstr ""
+
+#: inc/pmn-reports.php:374
+msgid "Advertisements "
+msgstr ""
+
+#: inc/pmn-reports.php:375
+msgid "Post-Launch Promotions "
+msgstr ""
+
+#: inc/pmn-reports.php:376
+msgid "Book Publicist "
+msgstr ""
+
+#: inc/pmn-reports.php:377
+msgid "Postage for Review Copies "
+msgstr ""
+
+#: inc/pmn-reports.php:379
+msgid "Cost of ISBN(s) "
+msgstr ""
+
+#: inc/pmn-reports.php:380
+msgid "eBook Conversion Service "
+msgstr ""
+
+#: inc/pmn-reports.php:381
+msgid "Professional Reviews "
+msgstr ""
+
+#: inc/pmn-reports.php:382
+msgid "Professional Photos "
+msgstr ""
+
+#: inc/pmn-reports.php:383
+msgid "Other Expense 1 "
+msgstr ""
+
+#: inc/pmn-reports.php:384
+msgid "Other Expense 2 "
+msgstr ""
+
+#: inc/pmn-reports.php:385
+msgid "Other Expense 3 "
+msgstr ""
+
+#: inc/pmn-reports.php:410 inc/pmn-reports.php:591
+msgid "CONTENT"
+msgstr ""
+
+#: inc/pmn-reports.php:421
+msgid "Target Word Count : "
+msgstr ""
+
+#: inc/pmn-reports.php:425
+msgid "Cover Art: "
+msgstr ""
+
+#: inc/pmn-reports.php:433
+msgid "Plot Structure : "
+msgstr ""
+
+#: inc/pmn-reports.php:434
+msgid "Point of View : "
+msgstr ""
+
+#: inc/pmn-reports.php:435
+msgid "Synopsis : "
+msgstr ""
+
+#: inc/pmn-reports.php:436
+msgid "Logline : "
+msgstr ""
+
+#: inc/pmn-reports.php:437
+msgid "Setting : "
+msgstr ""
+
+#: inc/pmn-reports.php:586
+msgid "OUTLINE"
+msgstr ""
+
+#: inc/pmn-reports.php:590
+msgid "SCENE"
+msgstr ""
+
+#: inc/pmn-reports.php:604
+msgid "Scene Conflict: "
+msgstr ""
+
+#: inc/pmn-reports.php:605
+msgid "Scene Justification: "
+msgstr ""
+
+#: inc/pmn-reports.php:606
+msgid "Author Notes: "
+msgstr ""
+
+#: inc/pmn-reports.php:673
+msgid "CHARACTERS"
+msgstr ""
+
+#: inc/pmn-reports.php:677
+msgid "CHARACTER"
+msgstr ""
+
+#: inc/pmn-reports.php:678
+msgid "DETAILS"
+msgstr ""
+
+#: inc/pmn-reports.php:696
+msgid "Main Character"
+msgstr ""
+
+#: inc/pmn-reports.php:751
+msgid "SUMMARY OVERVIEW"
+msgstr ""
+
+#: inc/pmn-reports.php:771
+msgid "Written By: "
+msgstr ""
+
+#: inc/pmn-reports.php:786
+msgid "Synopsis: "
+msgstr ""
+
+#: lib/cmb2/includes/CMB2.php:117
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2.php:432
+msgid "Click to toggle"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Ajax.php:71
+msgid "Please Try Again"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Ajax.php:173
+msgid "Remove Embed"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Ajax.php:181
+#: lib/cmb2/includes/helper-functions.php:95
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:338
+#, php-format
+msgid ""
+"The \"%s\" field parameter has been deprecated in favor of the \"%s\" "
+"parameter."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:342
+#, php-format
+msgid ""
+"Using the \"%s\" field parameter as a callback has been deprecated in favor "
+"of the \"%s\" parameter."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:372
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:375
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:408
+#: lib/cmb2/includes/types/CMB2_Type_Base.php:138
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:422
+#: lib/cmb2/includes/types/CMB2_Type_Base.php:123
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field.php:1116
+msgid "Add Group"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field.php:1117
+msgid "Remove Group"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field.php:1139 lib/cmb2/includes/CMB2_Field.php:1143
+msgid "None"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field.php:1204
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field_Display.php:408
+#: lib/cmb2/includes/CMB2_JS.php:155
+#: lib/cmb2/includes/types/CMB2_Type_File_Base.php:75
+msgid "File:"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:96 lib/cmb2/includes/CMB2_JS.php:135
+msgid "Clear"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:97
+msgid "Default"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:98
+msgid "Select Color"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:99
+msgid "Current Color"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:125
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:126
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:127
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:128
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:129
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:130
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:131
+msgid "Next"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:132
+msgid "Prev"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:133
+msgid "Today"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:134 lib/cmb2/includes/CMB2_JS.php:144
+msgid "Done"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:138
+msgid "Choose Time"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:139
+msgid "Time"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:140
+msgid "Hour"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:141
+msgid "Minute"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:142
+msgid "Second"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:143
+msgid "Now"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:145
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:151
+msgid "Use this file"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:152
+msgid "Use these files"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:153
+#: lib/cmb2/includes/types/CMB2_Type_File_Base.php:61
+msgid "Remove Image"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:154 lib/cmb2/includes/CMB2_Types.php:303
+#: lib/cmb2/includes/types/CMB2_Type_File_Base.php:80
+msgid "Remove"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:157
+msgid "Select / Deselect All"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Types.php:171
+#, php-format
+msgid ""
+"Custom field types require a Type object instantiation to use this method. "
+"This method was called by the '%s' field type."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Types.php:174
+msgid "That field type may not work as expected."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Types.php:175
+msgid "That field type will not work as expected."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Types.php:177
+msgid ""
+"For more information about this change see: https://github.com/mustardBees/"
+"cmb-field-select2/pull/34w"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Types.php:240
+msgid "Add Row"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_hookup.php:128
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_hookup.php:132
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: lib/cmb2/includes/helper-functions.php:284
+msgid "Save"
+msgstr ""
+
+#: lib/cmb2/includes/types/CMB2_Type_File.php:36
+msgid "Add or Upload File"
+msgstr ""
+
+#: lib/cmb2/includes/types/CMB2_Type_File_List.php:36
+msgid "Add or Upload Files"
+msgstr ""
+
+#: lib/cmb2/includes/types/CMB2_Type_Taxonomy_Multicheck.php:27
+#: lib/cmb2/includes/types/CMB2_Type_Taxonomy_Radio.php:25
+msgid "No terms"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://cato.io/plan-my-novel"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Plan almost every aspect of a novel or other writing project"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jamel Cato"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://cato.io"
+msgstr ""

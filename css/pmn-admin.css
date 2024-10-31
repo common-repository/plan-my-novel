@@ -1,0 +1,385 @@
+/*
+ * CSS for Admin Screens
+ *
+ * @package WordPress
+ * @subpackage Plan My Novel Plugin
+ * @author Jamel Cato
+ * @since 1.0.0
+ */
+
+
+ /* For tabs within pmn_novel CPT
+-----------------------------------------------------------------------------------*/
+.tab-content {
+    display: none;
+}
+.tab-content .cmb-group-title,
+.tab-content .cmbhandle {
+    display: none;
+}
+.tabs-menu {
+    height: 30px;
+    float: left;
+    clear: both;
+    margin: 2em 0 0 0;
+}
+.tabs-menu li {
+    height: 30px;
+    line-height: 30px;
+    float: left;
+    margin-right: 10px;
+    background-color: #ddd;
+    border-top: 1px solid #d4d4d1;
+    border-right: 1px solid #d4d4d1;
+    border-left: 1px solid #d4d4d1;
+}
+.tabs-menu li.current {
+    position: relative;
+    background-color: #fff;
+    border-bottom: 1px solid #fff;
+    z-index: 5;
+}
+.tabs-menu li a {
+    padding: 10px;
+    text-transform: uppercase;
+    color: #555;
+    text-decoration: none;
+    outline: none;
+    box-shadow: none;
+}
+.tabs-menu .current a {
+    color: #333;
+	font-weight: bold;
+}
+#tab-1 {
+    display: block;
+}
+
+
+/* CMB2 Overwrites
+-----------------------------------------------------------------------------------*/
+#pmn_tabs .ui-sortable-handle,
+#pmn_tabs .toggle-indicator,
+#pmn_tabs .hndle {
+    display: none
+}
+#pmn_tabs {
+    background-color: transparent;
+    border: none;
+    margin-top: -2em
+}
+#ext-note {
+    text-align: center !important
+}
+
+.cmb2-metabox-description {
+    color: #888 !important;
+    font-size: 0.9rem
+}
+.cmb2-upload-button {
+    float: left !important;
+    margin-right: 30px !important
+}
+.img-status {
+    width: 100% !important;
+    text-align: left;
+    margin-top: 1em
+}
+.post-type-pmn_character .file-status{
+    display: none 
+}
+.pmn-desc {
+    color: #777;
+    font-style: italic;
+    font-size: 0.9rem
+}
+.pmn-important {
+    color: red;
+    font-weight: bold;
+    font-size: 105%;
+    padding: 2em 0
+}
+input,
+label {
+    font-size: 0.9rem
+}
+#pmn_tabs button {
+    cursor: pointer
+}
+a.pmn-link-btn,
+a.pmn-link-button:visited {
+    text-decoration: none;
+    color: #000;
+    background-color: #ddd;
+    border: 1px solid #000;
+    padding: 3px 4px;
+}
+.post-type-pmn_novel .tab-content .inside {
+    padding: 2em
+}
+.indent {
+    padding-left: 20%
+}
+.pmn-image-container {
+    max-width: 50%;
+    padding: 2em 1em;
+    margin-top: 0.5em;
+}
+.pmn-image-container img {
+    max-width: 100%
+}
+
+.center {
+    position: absolute;
+    left: 40%;
+    top: 50%;
+    transform: translate(-50%, -40%);
+    margin-top: 25%;
+    z-index: -1;
+}
+.pmn-row {
+    border-bottom: 1px solid #ddd
+}
+.pmn-group-title {
+    margin: 5% 0 0.5% 0;
+    font-weight: bold
+}
+
+
+/* Tab Specific Styles
+-----------------------------------------------------------------------------------*/
+.tab-marketing {
+    min-height: 1000px
+}
+.tab-marketing .cmb-row {
+    border: none !important;
+    padding-bottom: 0.5em !Important
+}
+.tab-marketing .cmb-td input {
+    margin-right: 20px
+}
+.tab-marketing .pmn-group-title {
+    border: 1px solid #ddd;
+    padding: 0.5em 1% 0.5em 1%;
+    font-size: 110%;
+    background-color: #eee
+}
+.tab-marketing .pmn-group-title span {
+    float: right;
+    content: "\f142";
+    font: dashicons
+}
+.tab-marketing .cmb-th label {
+    font-size: 105%
+}
+.tab-marketing .pmn-success {
+    border-bottom: 1px solid #ddd;
+    padding: 0.5em 0;
+    font-size: 105%
+}
+.tab-marketing .pmn-method {
+    font-size: 110%;
+    font-weight: bold
+}
+.tab-budget .cmb-row {
+    padding-bottom: 0.5em !Important
+}
+.tab-budget .cmb-th {
+    min-width: 90px;
+}
+.tab-budget .cmb-type-text-money {
+    width: 60%;
+    max-width: 60%;
+    min-height: 50px;
+    display: inline-block;
+    border: none !important;
+    margin-bottom: -30px !important
+}
+.tab-budget .cmb-type-text {
+    width: 39%;
+    max-width: 39%;
+    min-height: 50px;
+    display: inline-block;
+    border: none !important;
+    margin-bottom: -30px !important
+}
+.tab-budget .pmn-line-item {
+    width: 49.5%;
+    display: inline-block;
+    font-weight: normal;
+    font-size: 14px
+}
+.tab-budget .pmn-grand-total {
+    width: 30%;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 14px;
+    padding-top: 1.5em
+}
+.tab-budget .pmn-the-total {
+    font-weight: bold;
+    font-size: 105%
+}
+.tab-budget {
+    margin-bottom: 20px
+}
+.tab-manage #pmn-print-container {
+    display: none;
+    border: 1px solid #ccc;
+    padding: 2em;
+    white-space: pre;
+    max-height: 1px
+}
+.tab-manage .pmn-outline-section {
+    margin: 2em auto
+}
+.tab-manage .pmn-action-row:not(:last-of-type) {
+    border-bottom: 1px solid #e9e9e9
+}
+.tab-manage .pmn-action-row {
+    padding: 1em 0;
+}
+.tab-manage .pmn-action-title {
+    font-weight: bold
+}
+.tab-manage .pmn-mng-left {
+    width: 30%;
+    display: inline-block
+}
+.tab-manage .pmn-mng-right {
+    width: 69%;
+    display: inline-block
+}
+.tab-manage .pmn-action-row p {
+    word-wrap: break-word
+}
+.tab-manage .pmn-action-row button {
+    margin-right: 20px
+}
+.content_tab .pmn-group-title {
+    border-bottom: 1px solid #ddd;
+    padding: 0.5em 1% 0.5em 0;
+    font-size: 110%;
+}
+.content_tab .pmn-cover-img, .pmn-character-img {
+    max-width: 100%;
+    padding: 2em 0 1em 0
+}
+.tab-files .cmb-row:not(:last-of-type) {
+    border: none
+}
+.tab-files .cmb2-upload-button {
+    margin: 0 20px 20px 0 !important
+}
+.tab-files .file-status span a {
+    display: none
+}
+#pmn-file-list section {
+    font-weight: normal;
+	margin-bottom:0.5em;
+}
+#pmn-file-list .dashicons {
+    color: #999;
+    display: none
+}
+#pmn-file-list li {
+    padding-bottom: 1.5em
+}
+.tab-files .pmn-group-title {
+	border-bottom:1px solid #ddd; 
+	padding: 0.5em 1% 0.5em 0; 
+	font-size:110%; 
+	margin-bottom:2em; 
+	font-weight:normal
+}
+#pmn-backup-note {
+    display: none;
+}
+#pmn-donate {
+    font-size: 95%
+}
+#pmn-donate a {
+    text-decoration: none
+}
+#pmn-donate a:hover {
+    text-decoration: underline
+}
+#hide-donate {
+    color: #777
+}
+.accordion-toggle {
+    cursor: pointer;
+}
+.accordion-content {
+    display: none;
+}
+.accordion-content.default {
+    display: block;
+}
+#pmn-plugin-info span {
+    font-weight: bold;
+    margin-right: 6px;
+    width: 20%;
+    display: inline-block
+}
+.pmn_options h3 {
+    padding-top: 2em
+}
+.pmn-print-section .pmn-group-title {
+    border-bottom: 1px solid #ddd;
+    font-size: 110%;
+}
+.pmn_novel_page_pmn_options  {
+    min-height: 1000px
+}
+.pmn_novel_page_pmn_options .pmn-group-title {
+    padding: 0.5em 1%;
+    font-size: 110%;
+    background-color: #eee;
+    border: 1px solid #ddd;
+    margin: 1em auto 0 auto !important
+}
+.pmn_novel_page_pmn_options .pmn-group-title span {
+    float: right;
+    content: "\f142";
+    font: dashicons
+}
+.pmn_novel_page_pmn_options .accordion-content {
+    background-color: #fff;
+    padding: 1em;
+    margin: 0 auto !important
+}
+.pmn_novel_page_pmn_options .accordion-content .cmb-type-title {
+    display: none
+}
+#pmn-plugin-settings .cmb-th label {
+    padding: 0
+}
+.post-type-pmn_outline .act-tag {
+	float:right;
+	font-size: 10px;
+    font-weight: bold;
+    display: inline;
+    line-height: 1;
+    top: -1px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 4px;
+    position: relative;
+    vertical-align: middle;
+    color: #000;
+    background: #f4f4f4;
+    padding: 2px 8px;
+    letter-spacing: .01em;
+}
+.cmb-remove-row .cmb-remove-group-row {
+    background-color: red !important;
+    color: #fff !important
+}
+#pmn-print-characters,
+#pmn-print-container,
+#pmn-print-outline,
+#pmn-print-summary {
+    display: none
+}

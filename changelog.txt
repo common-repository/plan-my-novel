@@ -1,0 +1,9 @@
+### Changelog
+
+10/22/2016 - vaersion 1.0.1
+ * Added pot file for translation
+ * Fixed display bug with plugin credit
+ * Improved printing function
+
+10/15/2016 - version 1.0.0
+ * Initial release

@@ -1,0 +1,10 @@
+== Credits ==
+
+Vector icon in the plugin's banner and icon by freepik
+
+JQuery Print Plugin by Sathvik Ponangi
+
+CMB2 Metabox Library by WebDevStudios
+
+Export to CSV function partially adopted from Terry Young's JS Fiddle here:
+https://jsfiddle.net/terryyounghk/kpegu/

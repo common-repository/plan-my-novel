@@ -1,0 +1,245 @@
+/*
+ * CSS for Printing
+ *
+ * @package WordPress
+ * @subpackage Plan My Novel Plugin
+ * @author Jamel Cato
+ * @since 1.0.0
+ */
+
+
+/*!
+Pure v0.6.0
+Copyright 2014 Yahoo! Inc. All rights reserved.
+Licensed under the BSD License.
+https://github.com/yahoo/pure/blob/master/LICENSE.md
+-----------------------------------------------------------------------------------*/
+.pure-table {  
+    border-collapse: collapse;
+    border-spacing: 0;
+    empty-cells: show;
+    border: 1px solid #cbcbcb;
+}
+.pure-table caption {
+    color: #000;
+    font: italic 85%/1 arial, sans-serif;
+    padding: 1em 0;
+    text-align: center;
+}
+.pure-table td,
+.pure-table th {
+    border-left: 1px solid #cbcbcb;
+    border-width: 0 0 0 1px;
+    font-size: inherit;
+    margin: 0;
+    overflow: visible;
+    padding: 0.5em 1em;
+}
+.pure-table thead {
+    color: #000;
+    text-align: left;
+    vertical-align: bottom;
+}
+.pure-table td {
+    background-color: transparent;
+}
+.pure-table-odd td {
+    background-color: #f2f2f2;
+}
+
+.pure-table-striped tr:nth-child(2n-1) td {
+    background-color: #f2f2f2;
+}
+.pure-table-bordered td {
+    border-bottom: 1px solid #cbcbcb;
+}
+.pure-table-bordered tbody > tr:last-child > td {
+    border-bottom-width: 0;
+}
+.pure-table-horizontal td,
+.pure-table-horizontal th {
+    border-width: 0 0 1px 0;
+    border-bottom: 1px solid #cbcbcb;
+}
+.pure-table-horizontal tbody > tr:last-child > td {
+    border-bottom-width: 0;
+}
+
+
+/* Overwrites for Pure Tables
+-----------------------------------------------------------------------------------*/
+.pure-table {
+    width: 100%;
+    border: none
+}
+.pure-table-horizontal td,
+.pure-table-horizontal th {
+    border: none
+}
+.pure-table thead tr {
+    border: none;
+}
+.pure-table tbody tr {
+    border: none;
+}
+.pure-table tbody tr:first-child {
+    border: none
+}
+.pure-table tr:last-child {
+    border-bottom: none
+}
+.pure-table td {
+    vertical-align: text-top
+}
+.pure-table td:first-child {
+    border: none
+}
+
+
+/* Custom Styles for Printing
+-----------------------------------------------------------------------------------*/
+html, body { 
+	height: auto;    
+}
+body {
+    font-family: Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
+    font-size: 1.1rem
+}
+@page {
+    size: 99%;
+    float: none
+}
+#pmn-print-outline,
+#pmn-print-characters,
+#pmn-print-container,
+#pmn-print-summary {
+    float: none;
+    -webkit-print-color-adjust: exact;
+}
+p {
+    font-size: 1.1rem
+}
+.pmn-print-section {
+    -webkit-print-color-adjust: exact;
+}
+.pmn-print-section img {
+    position: relative;
+    width: 80%;
+    max-width: 80%
+}
+thead {
+    background-color: transparent;
+    border: none;
+    color: transparent
+}
+thead tr,
+thead th {
+    border: none;
+    color: transparent
+}
+.pmn-item-title {
+    font-weight: bold;
+    font-size: 105%;
+}
+.pmn-td-title {
+    ont-weight: bold !important;
+    margin-top: 2em;
+    font-family: Arial, sans-serif;
+}
+.pmn-protag-marker {
+    color: #fff;
+    font-weight: bold;
+    font-size: 0.9rem;
+    background-color: green;
+    padding: 0.3em 0.5em;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    margin: 2em auto 0.5em auto;
+    text-align: center
+}
+h2 {
+    margin: 2em auto 0.5em auto;
+    text-align: center
+}
+h1,
+h2,
+h4,
+.pmn-item-title,
+.pmn-section-title {
+    font-family: Arial, sans-serif;
+}
+.pmn-left-col {
+    width: 30% !important;
+    max-width: 30% !important;
+}
+.pmn-right-col {
+    width: 68% !important;
+    max-width: 68% !important;
+}
+.pmn-character-pic {
+    max-width: 100px !important;
+    padding: 1em 0
+}
+.pmn-credit {
+    margin-top: 3em;
+    font-family: Arial, sans-serif;
+    font-size: 80%;
+    -webkit-print-color-adjust: exact;
+    text-align: center;
+	    page-break-before: avoid;  
+    break-before: avoid;
+}
+.pmn-print-ignore,
+hr {
+    display: none
+}
+.pure-table tbody tr.pmn-add-borders:not(:last-child) { 
+border-bottom:1px solid #ddd !important
+}
+
+
+
+/* Section Specific Styles 
+-----------------------------------------------------------------------------------*/
+
+.pmn-print-section:not(:last-child)  {
+    page-break-after: always; 
+    break-after: always
+}
+.pmn-print-section:last-child  {
+    page-break-after: avoid;  
+    break-after: avoid;
+	margin-bottom:3em;
+}
+#pmn-rpt-cover-page {
+    text-align: center
+}
+#pmn-rpt-cover-page img {
+    margin: 3em auto;
+    border: none;
+    background-color: transparent;
+    position: relative;
+    max-width: 80%;
+    height: auto
+}
+.pmn-print-budget .pmn-bud-col-1 {
+    width: 50% !important;
+    max-width: 50% !important;
+}
+.pmn-print-budget .pmn-bud-col-2 {
+    width: 25% !important;
+    max-width: 25% !important;
+}
+.pmn-print-budget .pmn-bud-col-3 {
+    width: 24% !important;
+    max-width: 24% !important;
+}
+.pmn-print-budget #pmn-gt-row{
+	font-weight:bold;
+}
+#pmn-print-summary td {
+    font-size: 1.1rem;
+    padding-bottom: 1em;
+    padding-top: 1em
+}
